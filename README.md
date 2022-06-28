@@ -11,8 +11,3 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrainClub&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
-
-
-
-![Snake animation](https://github.com/BrainClub/BrainClub/blob/output/github-contribution-grid-snake.svg)
